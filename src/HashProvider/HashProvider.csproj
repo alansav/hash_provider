@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45;net46;</TargetFrameworks>
+    <AssemblyName>Savage.Providers.HashProvider</AssemblyName>
+    <RootNamespace>Savage.Providers</RootNamespace>
+    <Title>HashProvider</Title>
+    <Authors>Alan Savage</Authors>
+    <Description>Library for working with Hash algorithms which helps with testing.</Description>
+    <Copyright>© 2018 Alan Savage</Copyright>
+    <PackageProjectUrl>https://github.com/alansav/hash_provider</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alansav/hash_provider</RepositoryUrl>
+    <PackageTags>hash;sha1;sha256;</PackageTags>
+    <PackageId>HashProvider</PackageId>
+    <!-- Version elements are intentionally empty as they are provided by the build process-->
+    <Version></Version>
+    <PackageVersion></PackageVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <InformationalVersion></InformationalVersion>
+  </PropertyGroup>
+
+</Project>
